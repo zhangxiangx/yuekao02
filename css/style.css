@@ -1,0 +1,196 @@
+body {
+	font-family: "微软雅黑";
+}
+
+
+.navbar {
+    position: relative;
+    min-height: 70px;
+    }
+    
+.navbar-default {
+    background-color: #f2f2f2;
+}
+#logo{
+	margin-top: 20px;
+}
+.navbar-nav{
+	margin-top: 10px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #848484;
+    font-size: 18px;
+}
+
+.navbar-default .navbar-nav .li-1 a{
+	color: #42a29b;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.beijing{
+	background: #f8f7f2;
+	padding-top: 100px;
+	padding-bottom: 15px;
+}
+.text{
+	font-size: 38px;
+	color: #787775;
+	
+}
+.xixian{
+	display: inline-block;
+	height: 53px;
+	border-bottom:1px #42a29b solid;
+	
+}
+.text1{
+	width: 299px;
+	height: 43px;
+	color: #868782;
+	margin-bottom: 120px;
+}
+@media (max-width:768px ) {
+	.images1{
+		z-index: 2;
+	}
+}
+
+.beijing1{
+	padding: 55px 0;
+}
+.beijing2{
+	background: url(../img/s_06.jpg)no-repeat;
+	background-size:cover ;
+	/*height: 560px;*/
+	padding: 28px 0 60px 0;
+}
+.pager li a{
+	display: inline-block;
+	width: 140px;
+	height: 40px;
+	border-color: #3aab96;
+	font-size: 18px;
+	color:#3aab96 ;
+	margin-bottom: 60px;
+}
+.text4{
+	font-size: 18px;
+	color: #ffffff;
+}
+.text5{
+	font-size: 15px;
+	color: #ffffff;
+}
+.text6{
+	color: #b4a199;
+}
+.beijing5{
+	padding: 100px 0 0 0;
+}
+.padd li a{
+	display: inline-block;
+	width: 140px;
+	height: 40px;
+	border-color: #ffcb31;
+	font-size: 18px;
+	color:#5a5a5a ;
+	margin-bottom: 90px;
+}
+/*.images3{
+	background: #FFF;
+	height: 350px;
+	width: 100%;
+	
+}*/
+.bei{
+	
+	height: 86px;
+	width: 366px;
+	box-shadow: 1px 2px 5px  2px #dedede;
+	margin-bottom: 60px;
+	border-radius:4px ;
+}
+.sss{
+	margin-left: 30px;
+}
+.text7{
+	line-height: 44px;
+	margin-left: 20px;
+	
+}
+.text8{
+	display: inline-block;
+	float: right;
+	margin-right: 29px;
+}
+.bei1{
+	height: 175px;
+	width: 366px;
+	box-shadow: 1px 2px 5px  2px #dedede;
+	border-radius:8px ;
+	padding: 22px 20px;
+	margin-bottom: 60px;
+
+}
+.text9{
+		/*margin: 0 20px;*/
+	}
+.text10{
+	color: #999999;
+}
+.images4{
+	margin-top:80px ;
+}
+.padd1 li a{
+	display: inline-block;
+	width: 140px;
+	height: 40px;
+	font-size: 18px;
+   margin-bottom: 0;
+}
+.images6{
+	background: url(../img/111_06.jpg);
+	/*background-size:cover ;*/
+	height: 800px;
+}
+.xixian1{
+	border-right:1px #DEDEDE solid;
+	border-bottom:1px #DEDEDE solid;
+}
+.xixian1 img{
+	margin: 0 auto;
+}
+#xixian{
+	border-right:0;
+}
+.image01{
+	padding: 30px 0;
+}
+.zxx li{
+	margin-right:30px ;
+	color: #999999;
+}
+.images22{
+	padding: 35px 0;
+	background: #ecf0f3;
+}
+.a{
+	margin: 0;
+	color: #8e9092;
+	font-size: 10px;
+}
+.b{
+	color: 666666;
+	margin-top: 15px;
+	text-align: right;
+}
+.c{
+	color: #5cb0ff;
+}
+.x{
+	color: #8e9092;
+}
+.q{
+	color: #b6b9bb;
+}
